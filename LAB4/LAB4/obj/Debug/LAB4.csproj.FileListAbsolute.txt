@@ -1,0 +1,9 @@
+D:\Учеба\БКИТ\Лабы\LAB4\LAB4\bin\Debug\LAB4.exe.config
+D:\Учеба\БКИТ\Лабы\LAB4\LAB4\bin\Debug\LAB4.exe
+D:\Учеба\БКИТ\Лабы\LAB4\LAB4\bin\Debug\LAB4.pdb
+D:\Учеба\БКИТ\Лабы\LAB4\LAB4\obj\Debug\LAB4.csprojResolveAssemblyReference.cache
+D:\Учеба\БКИТ\Лабы\LAB4\LAB4\obj\Debug\LAB4.Form1.resources
+D:\Учеба\БКИТ\Лабы\LAB4\LAB4\obj\Debug\LAB4.Properties.Resources.resources
+D:\Учеба\БКИТ\Лабы\LAB4\LAB4\obj\Debug\LAB4.csproj.GenerateResource.Cache
+D:\Учеба\БКИТ\Лабы\LAB4\LAB4\obj\Debug\LAB4.exe
+D:\Учеба\БКИТ\Лабы\LAB4\LAB4\obj\Debug\LAB4.pdb
